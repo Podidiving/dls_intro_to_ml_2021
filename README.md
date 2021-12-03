@@ -61,6 +61,20 @@ Basic ones are: Numpy, Pandas, Sklearn, Matplotlib, Scipy. Check out their main 
 
 ### DeepLearning
 
+#### Deep Learning Frameworks
+
+[Tensorflow. Deep Learning framework by Google](https://www.tensorflow.org)
+
+[Pytorch. Deep Learning framework by Facebook (Meta). Arguably, the most popular one](https://pytorch.org)
+
+[JAX. Autograd framework by Google](https://github.com/google/jax)
+
+[Keras. High-level framework built on Tensorflow](https://keras.io)
+
+[Pytorch-lightning. High level framework built on Pytorch](https://pytorch-lightning.readthedocs.io/en/latest/)
+
+[Catalyst. High level framework built on Pytorch](https://github.com/catalyst-team/catalyst)
+
 #### Great bor begginers
 
 [Deep Learning School course](https://github.com/DLSchool/deep-learning-school)
